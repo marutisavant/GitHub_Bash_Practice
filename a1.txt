@@ -1,5 +1,5 @@
 this is from a1.txt
 this second commit
 this third commit from ATE
-fresh edit1
+fresh edit3
 
